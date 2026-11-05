@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-asset-events-flutter",
+  "capabilityKey": "liberusoftware/module-accounting-asset-events",
+  "presentation": "mobile-flutter",
+  "package": "module_accounting_asset_events_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/accounting/nextjs/asset-events.md",
+  "presentationPlan": "projects/accounting/flutter/asset-events.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
